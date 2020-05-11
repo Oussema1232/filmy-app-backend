@@ -1,0 +1,5 @@
+{
+  "secretkey": "secretkey",
+  "requiresAuth": true,
+  "db": "mongodb://localhost/genresdatabase"
+}
